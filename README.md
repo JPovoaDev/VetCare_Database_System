@@ -28,8 +28,8 @@ VetCare_DataBase_System/
 ├── webapp/
 │   └── VetCareWeb.war          ← Deployable WAR file (import this into Eclipse)
 └── database/
-    ├── create.sql              ← Creates schema, tables, views, triggers, procedures
-    └── populate.sql            ← Inserts sample data
+    └── vetdataabase.sql        ← Creates schema, tables, views, triggers, procedures and inserts sample data
+
 ```
 
 After importing the WAR file into Eclipse, the project will have the following structure:
