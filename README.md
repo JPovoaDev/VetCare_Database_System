@@ -70,7 +70,17 @@ Before running the project, make sure you have the following installed:
 - [Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/) *(2025-12 or later)*
 
 ---
-
+## Technologies
+- Java
+- JSP / Servlets
+- MySQL
+- JDBC
+- HTML
+- CSS
+- JavaScript
+- Apache Tomcat
+- JSON / XML
+ 
 ## Database Setup
 
 > **MySQL must be running while the application is running.** The app connects to the database on every request, so if MySQL is stopped the application will fail.
